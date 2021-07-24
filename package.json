@@ -1,0 +1,23 @@
+{
+  "name": "portfoliowebsitenode",
+  "version": "1.0.0",
+  "description": "portfolio website node app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlieNuckel/portfolioWebsiteNode.git"
+  },
+  "author": "Lasse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlieNuckel/portfolioWebsiteNode/issues"
+  },
+  "homepage": "https://github.com/BlieNuckel/portfolioWebsiteNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
