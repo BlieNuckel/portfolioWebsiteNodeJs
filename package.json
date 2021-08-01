@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BlieNuckel/portfolioWebsiteNodeJs.git"
@@ -19,6 +20,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
+    "discord-webhook-node": "^1.1.8",
     "express": "^4.17.1",
     "http": "0.0.1-security",
     "nodemon": "^2.0.12"
